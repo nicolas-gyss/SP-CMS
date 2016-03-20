@@ -13,7 +13,7 @@
             <div id="header-inside" class="clearfix">
                 <div class="row">
 
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <!-- #header-inside-left -->
                         <div id="header-inside-left" class="clearfix">
 
@@ -43,7 +43,7 @@
                         <!-- EOF:#header-inside-left -->
                     </div>
 
-                    <div class="col-md-8">
+                    <div class="col-md-9">
                         <!-- #header-inside-right -->
                         <div id="header-inside-right" class="clearfix">
 
@@ -84,7 +84,7 @@
     <div id="banner" class="clearfix">
 
         <!-- #banner-inside -->
-        <div id="banner-inside" class="clearfix">
+        <div id="banner-inside" class="clearfix container">
             <div class="banner-area">
             <?php print render($page['banner']); ?>
             </div>
