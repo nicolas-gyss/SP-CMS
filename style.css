@@ -1768,3 +1768,9 @@ ul.contextual-links li a { font-weight: 400; line-height: 1; }
 .has-events {
 	background-color:#ffeb7f !important;
 }
+
+/* custom liens a*/
+
+a, .footer-area a, .footer-area ul.menu li a{
+    color:#333;
+}
