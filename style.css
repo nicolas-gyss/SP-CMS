@@ -1765,4 +1765,6 @@ ul.contextual-links li a { font-weight: 400; line-height: 1; }
 	padding: 25px;
 }
 
-
+.has-events {
+	background-color:#ffeb7f !important;
+}
