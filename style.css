@@ -1776,14 +1776,17 @@ a, .footer-area a, .footer-area ul.menu li a{
 }
 
 .footer-area ul.menu li a{
-	padding-left: 0; 
+	padding-left: 0;
+	display: inline-block;
 }
 
 #block-menu-menu-nous-contacter li.first:after{
 	display: inline-block;
 	content: "";
-	width:40px;
+	width:45px;
 	height:30px;
 	background: url("/sites/all/themes/startupgrowth_lite/images/enveloppe.png") no-repeat 0px 0px;
 	margin-left:10px;
+	top: 10px;
+	position: relative;
 }
