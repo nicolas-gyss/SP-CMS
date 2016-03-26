@@ -1774,3 +1774,7 @@ ul.contextual-links li a { font-weight: 400; line-height: 1; }
 a, .footer-area a, .footer-area ul.menu li a{
     color:#333;
 }
+
+.footer-area ul.menu li a{
+	padding-left: 0; 
+}
