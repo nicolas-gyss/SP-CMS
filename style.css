@@ -281,8 +281,8 @@ line-height: 1; left: 50%; margin-left: -19px; z-index: 4; }
 #bottom-content { padding: 30px 0 0 0; }
 
 #footer-top {  background-color: #dcdcdc; padding: 25px 0 0; }
-
-#footer { background-color: #101010; padding: 35px 0; }
+/* modification bg-color pour footer Ildiko */
+#footer { background-color: #66af75; padding: 35px 0; }
 
 #subfooter { background-color: #080808; padding: 25px 0 15px; }
 
@@ -1759,4 +1759,4 @@ ul.contextual-links li a { font-weight: 400; line-height: 1; }
 }
 
 
-/*  note d'Ildiko */
+
