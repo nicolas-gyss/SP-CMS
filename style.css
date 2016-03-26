@@ -1516,7 +1516,7 @@ ul.contextual-links li a { font-weight: 400; line-height: 1; }
 /* Flexslider module */
 .flexslider { background: #fff; border: none; -webkit-border-radius: 0; -moz-border-radius: 0; -o-border-radius: 0; border-radius: 0; -webkit-box-shadow: none; -moz-box-shadow: none; -o-box-shadow: none; box-shadow: none; }
 
-.flex-caption { width: 430px; white-space: normal!important; margin-left: 30px; position: absolute; bottom: 25px; background: rgba(0,0,0,0.77); color: #fff; padding: 20px; display: block; font-size: 30px; line-height: 1.15; }
+.flex-caption { width: 430px; white-space: normal!important; margin-left: 30px; position: absolute; bottom: 25px; background: #57925f; color: #fff; padding: 20px; display: block; font-size: 30px; line-height: 1.15; }
 
 .flex-caption a { color: #fff; text-transform: none; }
 
