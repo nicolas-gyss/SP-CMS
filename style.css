@@ -1790,3 +1790,11 @@ a, .footer-area a, .footer-area ul.menu li a{
 	top: 10px;
 	position: relative;
 }
+
+.google-visualization-orgchart-node{
+	border:none !important;
+}
+
+.google-visualization-orgchart-table tbody{
+	border-top:none !important;
+}
