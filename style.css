@@ -1798,3 +1798,12 @@ a, .footer-area a, .footer-area ul.menu li a{
 .google-visualization-orgchart-table tbody{
 	border-top:none !important;
 }
+
+/* fond blanc pour le menu */
+#banner .content ul.menu {
+	background: white;
+}
+#block-views-publications-block {
+	background: #efefef;
+	padding: 15px;
+}
